@@ -1,0 +1,14 @@
+{
+  "name": "nightwatch",
+  "displayName": "Laravel Nightwatch",
+  "version": "1.0.0",
+  "description": "Connect Cursor to your Laravel Nightwatch monitoring. Browse issues, view stack traces, update status, and configure data collection rules.",
+  "author": {
+    "name": "Laravel",
+    "email": "nightwatch@laravel.com"
+  },
+  "license": "MIT",
+  "keywords": ["laravel", "nightwatch", "monitoring", "debugging", "mcp"],
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/laravel/nightwatch-cursor-plugin"
+}
