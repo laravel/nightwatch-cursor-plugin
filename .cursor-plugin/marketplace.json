@@ -1,0 +1,13 @@
+{
+  "name": "nightwatch-plugin-marketplace",
+  "owner": {
+    "name": "Laravel"
+  },
+  "plugins": [
+    {
+      "name": "nightwatch",
+      "source": "./",
+      "description": "Official Laravel Nightwatch integration plugin for Cursor. Monitor your Laravel applications, investigate issues, view traces, and configure data collection rules directly from your editor."
+    }
+  ]
+}
